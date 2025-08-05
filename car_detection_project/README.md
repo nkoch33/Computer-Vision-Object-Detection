@@ -92,7 +92,7 @@ Then open your browser to `http://localhost:8080`
 detector.process_video(0)  # 0 for default webcam
 ```
 
-## 📖 Usage Guide
+##  Usage Guide
 
 ### Web Interface
 
@@ -366,4 +366,5 @@ For questions, issues, or contributions:
 4. Contact the maintainers
 
 ---
+
 
