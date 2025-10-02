@@ -1,4 +1,4 @@
-#  Car Detection Project
+#  Computer Vision Project Project
 
 A comprehensive computer vision system for detecting cars and surrounding objects in real-world scenarios using YOLO (You Only Look Once) object detection.
 
